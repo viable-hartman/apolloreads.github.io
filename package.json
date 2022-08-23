@@ -1,0 +1,30 @@
+{
+  "name": "io.github.apolloreads",
+  "displayName": "Apollo Reads",
+  "version": "1.0.0",
+  "description": "A first five sponsor site to spread literacy awareness and the importance of reading to our children.",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apollo Hartman",
+  "license": "©2022 ApolloReads.com",
+  "devDependencies": {
+    "cordova-android": "^10.1.1",
+    "cordova-plugin-whitelist": "^1.3.5"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-sqlite-storage": {},
+      "cordova-plugin-dialogs": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-plugin-dialogs": "2.0.2",
+    "cordova-sqlite-storage": "6.0.0"
+  }
+}
