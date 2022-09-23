@@ -1,9 +1,8 @@
 body {
-    /* Dark mode color toggle */
-    background-color: var(--md-default-bg-color);
-    color: var(--md-default-fg-color);
-    /*color: var(--md-typeset-a-color);*/
-    /*color: var(--md-primary-bg-color);*/
+  /* Dark mode color toggle */
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  /*color: var(--md-typeset-a-color);*/
+  /*color: var(--md-primary-bg-color);*/
 }
-p { font-size: .75rem; }
-img[alt="Cat-6 Cable Exposed"]{ display: block; width: 300px; margin-left: auto; margin-right: auto;}
+p { font-size: .90rem; }
