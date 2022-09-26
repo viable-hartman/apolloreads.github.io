@@ -1,0 +1,18 @@
+[data-md-color-scheme="default"] {
+  /* Set color variables for light mode */
+  --md-typeset-a-color-t: #FFF;
+  --md-typeset-a-color-t-active: #DD0000;
+}
+[data-md-color-scheme="slate"] {
+  /* Set color variables for dark mode */
+  --md-typeset-a-color-t: #9695A0;
+  --md-typeset-a-color-t-active: #FFF;
+}
+.md-tabs__link {
+  /* Use variable to change tab link color */
+  color: var(--md-typeset-a-color-t);
+}
+.md-tabs__link--active {
+  /* Use variable to change tab link active color */
+  color: var(--md-typeset-a-color-t-active);
+}
