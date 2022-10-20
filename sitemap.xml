@@ -201,6 +201,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://apolloreads.com/request_a_reading.html</loc>
+         <lastmod>2022-10-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://apolloreads.com/the_berenstain_bears__night_before_christmas.html</loc>
          <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
@@ -231,12 +236,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://apolloreads.com/the_house_on_haunted_hill.html</loc>
+         <lastmod>2022-10-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://apolloreads.com/the_little_match_girl.html</loc>
          <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_littlest_angel.html</loc>
+         <lastmod>2022-10-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://apolloreads.com/the_owl_climbed_up_the_tree.html</loc>
          <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
