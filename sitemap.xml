@@ -2,502 +2,527 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://apolloreads.com/index.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://apolloreads.com/1-4.html</loc>
+         <lastmod>2022-12-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://apolloreads.com/5-7.html</loc>
+         <lastmod>2022-12-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://apolloreads.com/8-10.html</loc>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/a_big_night_in_booville.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/a_fly_went_by.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/about.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/back_to_school_with_the_berenstain_bears.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/be_patient_pooh.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/berenstain_bears__report_card_trouble.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/berenstain_bears__trick_or_treat.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/boo_to_you_winnie_the_pooh.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/buenas_noches_gorilla.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/busy_creatures_day_eating.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/clifford_winter_ice_is_nice.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/collection.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/crunch_munch_dinosaur_lunch.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/curious_george_goes_camping.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/dia_de_los_muertos.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/donald_takes_a_trip.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/donalds_stinky_day.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/dora_the_explorer_1_2_3_dora.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/dragon_stew.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/ella_and_owen_attack_of_the_stinky_fish_monster.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/ella_and_owen_knights_vs_dragonbs.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/ella_and_owen_the_cave_of_aaaaah_doom.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/elmer_and_wilbur.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/franklin_plays_hockey.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/franklins_neighborhood.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/franklins_secret_club.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/franklins_thanksgiving.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/giraffes_cant_dance.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/goodnight_darth_vader.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/green_eggs_and_ham.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/hello_red_fox.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/here_comes_the_crocodile.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/hey_grandude.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/how_the_grinch_stole_christmas.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/how_to_catch_an_elf.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/i_miss_you_stinky_face.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/ice_cool.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/if_you_give_a_moose_a_muffin.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/if_you_give_a_mouse_a_cookie.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/if_you_meet_a_dinosaur.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/insects_and_crawly_creatures.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/invisible_lizard.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/jingle_bells.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/light_up_the_stars.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/little_blue_trucks_christmas.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/little_drummer_boy.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/mercy_watson_fights_crime.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/mercy_watson_goes_for_a_ride.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/mercy_watson_princess_in_disguise.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/mercy_watson_something_wonky_this_way_comes.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/mercy_watson_thinks_like_a_pig.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/mercy_watson_to_the_rescue.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/mi_pap%C3%A1_y_yo.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/mickey_and_the_beanstalk.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/monster_christmas.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/mooseltoe.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/national_geographic_kids__macaw.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/national_geographic_kids__volcanoes.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/nobody_laughs_at_a_lion.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/oh_the_places_youll_go.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/open_the_barn_door.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/perfect_piggies.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/peter_rabbit.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/pinkalicious_fashion_fun.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://apolloreads.com/playlists.html</loc>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/pooh_welcomes_winter.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/ranger_rick_jr__animals_with_backbones.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/ranger_rick_jr__burrowing_owls.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/ranger_rick_jr__junejuly_2022.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/ranger_rick_jr__little_cats_big_cats.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/request_a_reading.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/scavenger_hunt__winnie_the_pooh.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/sharks.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_berenstain_bears__night_before_christmas.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_berenstain_bears_and_the_really_big_pet_show.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_berenstain_bears_at_the_aquarium.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_berenstain_bears_go_green.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_berenstain_bears_moving_day.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_cat_and_the_hat_theres_no_place_like_space.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_christmas_bear.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_elves_and_the_shoemaker.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_gingerbread_pirates.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_house_on_haunted_hill.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_lion_king_1_12.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_little_match_girl.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_littlest_angel.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_nutcracker.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_owl_climbed_up_the_tree.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/the_sleepover__winnie_the_pooh.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/thumbsy_the_santa_claus_sprite_who_did_nothing_quite_right.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/truth_or_lie__dinosaurs.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/twas_the_night_before_christmas.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/twas_the_night_before_thanksgiving.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/under_the_sea_lifttheflap_book.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/walt_disneys_peter_pan.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/walter_the_baker.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/what_pet_should_i_get.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/what_should_danny_do__bad_choices.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/what_should_danny_do__good_choices.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://apolloreads.com/whats_more_scary_than_a_shark.html</loc>
-         <lastmod>2022-12-07</lastmod>
+         <lastmod>2022-12-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://apolloreads.com/playlists.html</loc>
+         <lastmod>2022-12-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
