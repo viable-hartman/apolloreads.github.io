@@ -1,0 +1,58 @@
+{
+  "short_name": "ApolloReads",
+  "name": "ApolloReads: Read to your children?",
+  "icons": [
+    {
+      "src": "/images/icons-vector.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#G27FCA",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#G27FCA",
+  "shortcuts": [
+    {
+      "name": "Playlists",
+      "short_name": "Playlists",
+      "description": "Listen to our latests playlists",
+      "url": "/playlists.html?source=pwa",
+      "icons": [{ "src": "/images/list.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Help Us",
+      "short_name": "Help",
+      "description": "Help us reach all children!",
+      "url": "/request_a_reading.html?source=pwa",
+      "icons": [{ "src": "/images/help.png", "sizes": "192x192" }]
+    }
+  ],
+  "description": "Support Literacy Around the World",
+  "screenshots": [
+    {
+      "src": "/images/screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/images/screenshot2.jpg",
+      "type": "image/jpg",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
+}
